@@ -10,7 +10,7 @@ This repository also contains two test files to run and test these functions:
 1. **test-numbers.js**: Change the values of `number1` and `number2` to check the function. It contains the link to `add-numbers.js`.
 2. **test-upload.js**: Change the `filename` and `fileContentBase64` according to the file you want to upload. It contains the link to `upload-file.js`.
 
-## Prerequisites
+# Prerequisites
 
 - [Node.js](https://nodejs.org/) installed on your machine.
 - [AWS CLI](https://aws.amazon.com/cli/) installed and configured with your AWS credentials (for deploying Lambda functions).
